@@ -1,5 +1,6 @@
 # Language setting
 language: node_js
+build_image: drydocker/u12nodpls:tip
 
 # Version number
 node_js:

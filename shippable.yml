@@ -1,6 +1,6 @@
 # Language setting
 language: node_js
-build_image: drydock/u12nodall:tip
+build_image: drydock/u14nodall:tip
 
 # Version number
 node_js:
